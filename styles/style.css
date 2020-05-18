@@ -37,7 +37,7 @@
   z-index: 2;
   font-weight: bold;
   font-size: 102px;
-  line-height: 96px;  
+  line-height: 96px;
   margin-left: 64px;
   width: 730px;
 }
@@ -76,7 +76,7 @@
   position: absolute;
   right: 0;
   top: 64px;
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
 }
 
 .description {
@@ -315,7 +315,7 @@
   margin-top: 0;
   margin-bottom: 20px;
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -324,7 +324,7 @@
   color: white;
   margin-bottom: 20px;
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
 }
 
