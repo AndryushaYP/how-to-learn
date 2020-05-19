@@ -280,6 +280,7 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
@@ -292,7 +293,6 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin-top: auto;
 }
 
 .footer__column-links {
