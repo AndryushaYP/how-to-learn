@@ -1,2 +1,12 @@
-@import url(./_place/rotation_place_header.css);
-@import url(./_place/rotation_place_kaufman.css);
+@keyframes rotation {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.rotation {
+    animation: rotation 20s linear infinite;
+}
